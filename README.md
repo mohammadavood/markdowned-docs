@@ -1,8 +1,9 @@
 
 Welcome to **Markdowned Docs**, a personal repository designed to enhance the readability of documentation for LLMs (Large Language Models).
+<br/>
 This project addresses challenges related to document crawling, indexing limitations, and token handling to improve the performance and usability of documentation processing by LLMs.
-it seems its better to index docs using @Doc once for better performance with onetime indexing the large file, instead of wait and read it in every new thread or usage.
-
+it seems it's better to index docs using @Doc once for better performance with one-time indexing the large file, instead of waiting and reading it in every new thread or usage.
+[AI generated, Human Tailored]
 ---
 
 ## 📋 Repository Overview
